@@ -1,2 +1,11 @@
 h1{color: red;
 }
+@media only screen and (max-width: 750px){
+    body {
+        text-align: left;}
+    img{  width: 100%;
+    height: auto;}
+  
+}
+
+img{text-align: center}
